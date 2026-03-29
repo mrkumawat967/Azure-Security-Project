@@ -12,5 +12,5 @@ layout:
     visible: true
 ---
 
-#  RBAC
+#  RBAC:role based access control
 
